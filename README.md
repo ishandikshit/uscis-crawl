@@ -9,5 +9,7 @@
 
 ## To run program:
 ```
-python crawler.py
+python crawler.py XX
+XX as in YSC18900XX250
+e.g. python crawler.py 09 will crawl all the entries from YSC1890009250-YSC1890009450
 ```
